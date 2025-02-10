@@ -1,55 +1,32 @@
-**Davlatov Muhriddin**\
-📞 99899 108 6525\
-✉️ [mdavlatov393@gmail.com](mailto:mdavlatov393@gmail.com)\
-📍 Uzbekistan, Buxoro viloyati, Peshku tumani
+# 💻 Junior MERN Stack Dasturchi
 
----
+Salom! Men **Junior MERN Stack Developer** sifatida o'z bilimlarimni mustahkamlash va amaliy tajriba orttirish ustida ishlayapman. Hozircha hech qayerda ishlamaganman, lekin turli loyihalar ustida ishlab, yangi texnologiyalarni o‘rganishga harakat qilaman.
 
-### **Maqsad**
+## 🚀 Mening Texnologiyalarim:
 
-Frontend va Backend yo‘nalishlarida chuqur tajriba orttirish hamda mustahkam bilimga ega bo‘lish. Asosan frontend dasturlashni yaxshi bilaman va ushbu sohada innovatsion loyihalar ustida ishlashni maqsad qilganman. O‘z bilim va ko‘nikmalarimni amaliyotda sinab ko‘rib, jamoaviy loyihalarda qatnashish va yangi texnologiyalarni o‘rganish istagidaman.
+![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
+![SCSS](https://img.shields.io/badge/-SCSS-CC6699?style=flat&logo=sass&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
+![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat&logo=redux&logoColor=white)
+![Zustand](https://img.shields.io/badge/-Zustand-000000?style=flat&logoColor=white)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 
----
+## 🎯 Maqsadlarim:
+- 🔍 **Yangi texnologiyalarni o‘rganish** va ularni real loyihalarda qo‘llash.
+- 📚 **Dasturlash bo‘yicha bilimlarimni chuqurlashtirish** va tajribamni oshirish.
+- 👨‍💻 **Portfolio yaratish** va ochiq kodli loyihalarda ishtirok etish.
+- 🚀 **Junior dasturchi sifatida ish topish** va jamoaviy loyihalarda qatnashish.
 
-### **Ta’lim**
+## 📫 Mening Aloqa Ma'lumotlarim:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-profile)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/your-username)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
 
-- YouTube orqali o‘z ustimda ishlaganman.
-- **Sammi.ac** platformasi orqali MERN stack texnologiyalarini o‘rganganman.
-- **Mohirdev** platformasida MERN stack praktikum kursida qatnashganman.
-
----
-
-### **Texnik ko‘nikmalar**
-
-- **Frontend**: HTML, CSS, Bootstrap, SCSS, JavaScript, React.js, Redux, Zustand, Next.js
-- **Backend**: Node.js, Express.js, MongoDB
-- **Qo‘shimcha**: Git, TypeScript
-
----
-
-### **Tajriba**
-
-- **Mustaqil loyihalar ustida ishlash** – MERN stack asosida turli real loyihalar yaratdim. Bu jarayonda React va Redux bilan UI/UX dizayn qilish, backendda API yaratish, ma’lumotlar bazasini optimallashtirish bo‘yicha tajriba orttirdim.
-- **Jamoaviy ish tajribasi** – Git va GitHub orqali kod versiyalarini boshqarish, jamoa bilan hamkorlikda ishlashni o‘rganganman.
-- **Muammolarni hal qilish** – Dasturlash davomida yuzaga kelgan muammolarni mustaqil hal qilish, debugging jarayonlarini samarali olib borish tajribasiga egaman.
-
----
-
-### **Loyihalar**
-
-- **💻 Task Manager App** – Foydalanuvchilarga vazifalar yaratish, tahrirlash va o‘chirish imkonini beruvchi platforma.
-  - 🔹 `React.js` 🔹 `Redux` 🔹 `Node.js` 🔹 `Express.js` 🔹 `MongoDB`
-- **💻 E-commerce Website** – Mahsulotlarni qo‘shish, filtrlash va savatga joylash imkoniyatiga ega onlayn do‘kon.
-  - 🔹 `Next.js` 🔹 `Zustand` 🔹 `TypeScript` 🔹 `MongoDB`
-- **💻 Chat Application** – Real-time xabar almashish imkonini beruvchi dastur.
-  - 🔹 `React.js` 🔹 `Socket.io` 🔹 `Node.js` 🔹 `Express.js` 🔹 `MongoDB`
-
----
-
-### **Tillar**
-
-- O‘zbek (Ona tili)
-- Ingliz tili (A2 daraja)
-- Dasturlash tillari: JavaScript, TypeScript
-
----
